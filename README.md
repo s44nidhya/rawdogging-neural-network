@@ -1,1 +1,1 @@
-# rawdogging-neural-network
+This is a vault of code that spreads across the diaspora of neural networks, staring from basic models to medium level buggy as heck models cause they simply run on vibe and a little bit of math that I learnt just 15 minutes after deciding to built it lol, have fun.
